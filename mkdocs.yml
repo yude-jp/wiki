@@ -1,4 +1,6 @@
 site_name: yude.moe Wiki
+site_url: https://wiki.yude.moe
+site_author: 'yude'
 theme:
     name: material
     language: 'ja'
