@@ -1,5 +1,9 @@
 site_name: yude.moe Wiki
 theme:
-    name: lumen
-    nav_style: dark
-    custom_dir: 'custom_theme/'
+    name: material
+    language: 'ja'
+    feature:
+      tabs: true
+
+extra_css:
+  - css/fonts.css

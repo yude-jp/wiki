@@ -1,3 +1,0 @@
-[submodule "custom_theme"]
-	path = custom_theme
-	url = https://github.com/yudete/mkdocs-bootswatch
