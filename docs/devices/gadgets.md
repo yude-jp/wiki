@@ -1,4 +1,4 @@
-# 所持周辺機器
+# 周辺機器
 
 ## キーボード
 * [ビットフェローズ BFKB113PBK](https://bit-trade-one.co.jp/product/bitferrous/bfkb113pbk/)
