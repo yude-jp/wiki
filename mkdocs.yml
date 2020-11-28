@@ -9,3 +9,12 @@ theme:
 
 extra_css:
   - css/fonts.css
+
+plugins:
+  - search
+  - awesome-pages
+  - git-revision-date
+  - git-committers
+  - rss
+  - mkdocs-nav-enhancements
+  - print-site
