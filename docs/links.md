@@ -2,7 +2,7 @@
 ## 連絡先
 
 * Discord: `yude#3205`
-* メール: [yu@yude.moe](mailto:yu@yude.moe), [yude@pm.me](yude@pm.me)
+* メール: [yu@yude.moe](mailto:yu@yude.moe), [yude@pm.me](mailto:yude@pm.me)
 * Keybase: [yude](https://keybase.io/yude)
 * Instagram: [yude.moe](https://instagram.com/yude.moe)
 
@@ -57,7 +57,7 @@
 * AtCoder: [yude](https://atcoder.jp/users/yude)
 * Cent: [yude](https://beta.cent.co/yude)
 * Minds: [yude](https://www.minds.com/yude/)
-* npm:[yude](https://www.npmjs.com/~yude)
+* npm: [yude](https://www.npmjs.com/~yude)
 
 ## 創作
 
@@ -89,14 +89,20 @@
 * フォト蔵: [yude](http://photozou.jp/user/top/3240087)
 * playrack: [yude](https://playrack.net/!/yude)
 * ErogameScape -エロゲー批評空間-: [yude](https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/user_infomation.php?user=yude)
+* はてな: [yudetex](https://profile.hatena.ne.jp/yudetex/)
 
+## チャット, 通話
+* Skype: yudecchi
+* LINE: [無料通話・無料メールアプリ「LINE」の招待が届いています](https://line.me/ti/p/U9r3ZUhimO)
+* Fleep: yudete@fleep.io
 ## その他の SNS
 * Disqus: [yudete](https://disqus.com/by/yudete/)
 * plug.dj: [yudecchi](https://plug.dj/@/yudecchi)
 * Myspace: [yudetex](https://myspace.com/yudetex)
 * ASKfm: [yude_point](https://ask.fm/yude_point)
 * Irori: [@yude](https://irori.app/@yude)
-
+* Quora: [yude](https://jp.quora.com/profile/yude)
+* Weibo (微博): [yude1119](https://weibo.com/7196958135/profile)
 ## Fediverse
 ### Misskey
 * [misskey.io/@yude](https://misskey.io/@yude)
