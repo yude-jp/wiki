@@ -1,6 +1,5 @@
-# Git
+# コミットに署名を行う
 
-## コミットに署名を行う
 * 参考: [Git Commit で OpenPGP 署名を行う — OpenPGP の実装 | http://text.Baldanders.info](https://text.baldanders.info/openpgp/git-commit-with-openpgp-signature/)
 
     1. Chocolatey などから Gpg4Win をインストールする。  
@@ -13,14 +12,3 @@
         `git config --global commit.gpgsign true`
     1. **【重要】GitHub 等に鍵を登録する。 **  
         `gpg --armor --export [鍵のID]` でサイトに登録するべき文字列が表示されるので、コピペする。  
-
-## GitHub で、2段階認証をしていても `git push` をする方法
-* 参考: [Githubの2段階認証入れたらpushできなくなった人へ - Qiita](https://qiita.com/cyborg__ninja/items/6efd349370bf5f8bffb2)  
-
-まず、Personal Access TokenをGitHubの設定画面から生成する。  
-次に、一度 `git push` をし、パスワードを要求された時に生成したトークンを入力する。
-
-## git のグローバル設定を一括で表示する
-```
-git config --list --global
-```
