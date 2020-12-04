@@ -6,7 +6,7 @@
     1. Chocolatey などから Gpg4Win をインストールする。  
         `choco install gpg4win`  
     1. 鍵を生成する。 gpg --gen-key --> 表示されたものに従う。  
-    1. PC に入っている鍵の一覧を表示させる。 gpg --list-keys --> 鍵のIDを確認する。  
+    1. PC に入っている鍵の一覧を表示させる。 `gpg --list-keys` --> 鍵のIDを確認する。  
     1. Git で指定した鍵を使うようにする。   
         `git config --global user.signingkey [先の手順で確認した鍵のID]`  
     1. コミット時に署名するようにする。   
