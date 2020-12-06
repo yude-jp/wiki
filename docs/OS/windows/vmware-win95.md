@@ -21,3 +21,17 @@
 ## インターネットに接続する
 行い  
 ![手順](../../assets/images/win95_tcpip.png)
+
+### Internet Explorer 4.0 で接続できた Web サイトの一覧
+HTTPS 接続の Web サイトには接続できない。
+
+* [ようこそ AMAKATAs' WEBSITE へ](http://www.asahi-net.or.jp/~mi5k-amkt/)
+* [1998特報!!倶楽部](http://www.big.or.jp/~talk/t-club/)
+* [ようこそ「ｍａｒｉａ」のホームページヘ](http://www009.upp.so-net.ne.jp/maria/index.htm)
+* [阿部寛のホームページ](http://abehiroshi.la.coocan.jp/)
+* [侍魂](http://www6.plala.or.jp/private-hp/samuraidamasii/tamasiitop/tamasiitop.htm)
+* [kota'sHomePageへようこそ](http://www5.airnet.ne.jp/kota/)
+* [ようこそ、幸子のホームページへ](http://ftp.fuchu.or.jp/~sachiko3/index.htm)
+
+`’s home page　ようこそ` で [Google 検索](https://www.google.co.jp/search?client=ubuntu&hs=uxn&channel=fs&hl=ja&sxsrf=ALeKk01iTVeg26WWFYNkk42VpSmHcECkug%3A1607224198259&ei=hkvMX5qgD4nv-Qa23JH4CA&q=%E2%80%99s+home+page%E3%80%80%E3%82%88%E3%81%86%E3%81%93%E3%81%9D&oq=%E2%80%99s+home+page%E3%80%80%E3%82%88%E3%81%86%E3%81%93%E3%81%9D&gs_lcp=CgZwc3ktYWIQAzIECCMQJzoHCAAQsAMQHlDQDljQDmCNHmgBcAB4AIABXYgBXZIBATGYAQCgAQKgAQGqAQdnd3Mtd2l6yAEBwAEB&sclient=psy-ab&ved=0ahUKEwia-6TbsLjtAhWJd94KHTZuBI8Q4dUDCA0&uact=5) を行うと、たくさん出てくる。  
+参考: [懐かしの90年代（〜2000年代初頭）ホームページ](https://miz2403.com/nineties/)
