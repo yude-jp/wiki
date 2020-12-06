@@ -1,6 +1,6 @@
 # 無効化しても良いタスク
 * `タスク スケジューラ`で設定します。  
-![Task Scheduler](https://i.imgur.com/5sYuAXt.png)
+![Task Scheduler](../../assets/images/task_scheduler_1.png)
 * コマンド経由で無効化することもできます。  
     * コマンド プロンプト (管理者権限)
         ```
