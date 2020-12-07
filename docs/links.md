@@ -58,6 +58,7 @@
 * Cent: [yude](https://beta.cent.co/yude)
 * Minds: [yude](https://www.minds.com/yude/)
 * npm: [yude](https://www.npmjs.com/~yude)
+* Launchpad: [yude](https://launchpad.net/~yude)
 
 ## 創作
 
