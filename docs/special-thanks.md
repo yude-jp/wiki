@@ -33,6 +33,14 @@
 ### git.yude.moe
 * ソフトウェア: [Gitea](https://gitea.io/)
 
+### wp.yude.moe
+* ソフトウェア: [WordPress](https://ja.wordpress.org/)
+* テーマ: [WP Bootstrap Starter](https://ja.wordpress.org/themes/wp-bootstrap-starter/)
+* プラグイン: [Classic Editor](https://ja.wordpress.org/plugins/classic-editor/)
+
+### don.yude.moe
+* ソフトウェア: [Mastodon](https://joinmastodon.org/)
+* フレームワーク: [Ruby on Rails](https://rubyonrails.org/)
 ### Minecraft サーバー関連
 * [PaperMC](https://papermc.io/)
 * [Waterfall](https://github.com/PaperMC/Waterfall)
@@ -41,7 +49,7 @@
 * [WorldGuard](https://dev.bukkit.org/projects/worldguard)
 * [CoreProtect](https://www.spigotmc.org/resources/coreprotect.8631/)
 
-### その他 (サイト外等)
+### その他 (サイト外等 または 統合的に使用しているもの)
 * サービス: [Discord](https://discord.com)
 * サービス: [Datadog](https://www.datadoghq.com/ja/)
 * アイコンセット: [Font Awesome](https://fontawesome.com/)
@@ -55,6 +63,8 @@
 * ソフトウェア: [MariaDB](https://mariadb.org/)
 * ソフトウェア: [PostgreSQL](https://www.postgresql.org/)
 * ソフトウェア: [Syncthing](https://syncthing.net/)
+* ソフトウェア: [Redis](https://redis.io/)
+* オペレーティングシステム: [Ubuntu](https://ubuntu.com/)
 
 ## 作品
 ### アイコン
