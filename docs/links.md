@@ -21,6 +21,7 @@
 * Steam: [yudete](https://steamcommunity.com/id/yudete)
 * Minecraft: [yude](https://ja.namemc.com/profile/yude.1) リンク先: NameMC
 * osu!: [yude](https://osu.ppy.sh/users/4617937)
+* VRChat: [yude](https://vrcprofile.com/p/yude)
 * itch.io: [yude](https://yude.itch.io/)
 * AeriaGames: [yudetex](https://www.aeriagames.com/user/yudetex/)
 * TINAMI: [yude](http://www.tinami.com/profile/349313)
