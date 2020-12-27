@@ -41,6 +41,9 @@
 * ふわっち: [yude](https://whowatch.tv/profile/w:yude)
 * Smashcast: yudehttps://www.smashcast.tv/yude)
 * Spotify: [yude1119](https://open.spotify.com/user/yude1119?si=mkpe_gHjSjatWcstDWkKbQ)
+* Omlet Arcade: [yudete](https://omlet.gg/profile/yudete)
+* Caffeine: [yudete](https://www.caffeine.tv/yudete/)
+* DLive: [yudete](https://dlive.tv/yudete)
 
 ## 開発
 
