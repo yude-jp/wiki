@@ -1,6 +1,5 @@
 # Special Thanks
 
-## ソフトウェア, フレームワーク, ソフトウェア
 ### yude.moe
 * CSS / JS フレームワーク: [Bootstrap](https://getbootstrap.jp/)
 * フォント: [Morning Star](http://www.tattoowoo.com/)
@@ -36,23 +35,21 @@
 ### wp.yude.moe
 * ソフトウェア: [WordPress](https://ja.wordpress.org/)
 * テーマ: [WP Bootstrap Starter](https://ja.wordpress.org/themes/wp-bootstrap-starter/)
-* プラグイン: [Classic Editor](https://ja.wordpress.org/plugins/classic-editor/)
 
 ### don.yude.moe
 * ソフトウェア: [Mastodon](https://joinmastodon.org/)
-* フレームワーク: [Ruby on Rails](https://rubyonrails.org/)
 ### Minecraft サーバー関連
-* [PaperMC](https://papermc.io/)
-* [Waterfall](https://github.com/PaperMC/Waterfall)
-* [Dynmap](https://www.spigotmc.org/resources/dynmap.274/)
-* [WorldEdit](https://dev.bukkit.org/projects/worldedit)
-* [WorldGuard](https://dev.bukkit.org/projects/worldguard)
-* [CoreProtect](https://www.spigotmc.org/resources/coreprotect.8631/)
+* サーバー ソフトウェア: [PaperMC](https://papermc.io/)
+* プロキシ ソフトウェア: [Waterfall](https://github.com/PaperMC/Waterfall)
+* プラグイン: [Dynmap](https://www.spigotmc.org/resources/dynmap.274/)
+* プラグイン: [WorldEdit](https://dev.bukkit.org/projects/worldedit)
+* プラグイン: [WorldGuard](https://dev.bukkit.org/projects/worldguard)
+* プラグイン: [CoreProtect](https://www.spigotmc.org/resources/coreprotect.8631/)
 
 ### その他 (サイト外等 または 統合的に使用しているもの)
 * サービス: [Discord](https://discord.com)
 * サービス: [Datadog](https://www.datadoghq.com/ja/)
-* アイコンセット: [Font Awesome](https://fontawesome.com/)
+* アイコンセット (サービス): [Font Awesome](https://fontawesome.com/)
 * サービス: [Cloudflare](https://www.cloudflare.com/)
 * ソフトウェア: [Nginx](https://nginx.org/ja/)
 * ソフトウェア: [n8n.io](https://n8n.io/)
