@@ -8,8 +8,8 @@
 
 ## Twitter
 
+* [@yudejp](https://twitter.com/yudejp)
 * [@yudete](https://twitter.com/yudete)
-* [@DestroyTeXLive](https://twitter.com/DestroyTeXLive)
 * [@yudekey](https://twitter.com/yudekey)
 * [@yudemoe](https://twitter.com/yudemoe)
 * [@yudetex](https://twitter.com/yudetex)
@@ -18,7 +18,7 @@
 
 ## ゲーム
 
-* Steam: [yudete](https://steamcommunity.com/id/yudete)
+* Steam: [yude (id/yudejp)](https://steamcommunity.com/id/yudejp)
 * Minecraft: [yude](https://ja.namemc.com/profile/yude.1) リンク先: NameMC
 * osu!: [yude](https://osu.ppy.sh/users/4617937)
 * VRChat: [yude](https://vrcprofile.com/p/yude)
@@ -33,7 +33,7 @@
 ## 配信
 
 * YouTube: [https://www.youtube.com/c/yudete](yude (c/yudete))
-* Twitch: [yude1119](https://twitch.tv/yude1119)
+* Twitch: [yudete](https://twitch.tv/yudete)
 * Mixer: [yude](https://mixer.com/yude)
 * 哔哩哔哩 (bilibili): [yudetex](https://space.bilibili.com/446089772)
 * Dailymotion: [yude_point](https://www.dailymotion.com/yude_point)
@@ -47,7 +47,7 @@
 
 ## 開発
 
-* GitHub: [yudete](https://github.com/yudete)
+* GitHub: [yudejp](https://github.com/yudejp)
 * GitLab: [yude](https://gitlab.com/yude)
 * Qiita: [yude](https://qiita.com/yude)
 * Indie Hackers: [yude](https://www.indiehackers.com/yude)
