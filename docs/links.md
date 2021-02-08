@@ -2,9 +2,9 @@
 ## 連絡先
 
 * Discord: `yude#3205`
-* メール: [yu@yude.moe](mailto:yu@yude.moe), [yude@pm.me](mailto:yude@pm.me)
+* メール: [i@yude.jp](mailto:i@yude.jp)
 * Keybase: [yude](https://keybase.io/yude)
-* Instagram: [yude.moe](https://instagram.com/yude.moe)
+* Instagram: [yude.jp](https://instagram.com/yude.moe)
 
 ## Twitter
 
@@ -13,8 +13,6 @@
 * [@yudekey](https://twitter.com/yudekey)
 * [@yudemoe](https://twitter.com/yudemoe)
 * [@yudetex](https://twitter.com/yudetex)
-* [@lucknetter](https://twitter.com/lucknetter)
-* [@yude_luck](https://twitter.com/yude_luck)
 
 ## ゲーム
 
