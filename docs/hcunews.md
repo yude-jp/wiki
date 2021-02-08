@@ -6,8 +6,8 @@
 ## これは誰が管理しているものですか？
 広島市立大学 情報科学部 1年の yude が管理しています。このアカウントについての連絡は下記までお願いします。
 ### 連絡先
-* 電子メール: [admin@yude.moe](mailto:admin@yude.moe)
-* Twitter: [@yudete](https://twitter.com/yudete)
+* 電子メール: [admin@yude.jp](mailto:admin@yude.jp)
+* Twitter: [@yudejp](https://twitter.com/yudejp)
 
 ## これはどうやって動いているのですか？
 Microsoft Power Automate によって広島市立大学WebページのRSSフィードを取得し、新しい記事が投稿されていたらツイートされます。  
