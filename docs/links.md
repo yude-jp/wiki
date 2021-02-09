@@ -1,13 +1,11 @@
 # リンク集
 ## 連絡先
-
 * Discord: `yude#3205`
 * メール: [i@yude.jp](mailto:i@yude.jp)
 * Keybase: [yude](https://keybase.io/yude)
 * Instagram: [yude.jp](https://instagram.com/yude.moe)
 
 ## Twitter
-
 * [@yudejp](https://twitter.com/yudejp)
 * [@yudete](https://twitter.com/yudete)
 * [@yudekey](https://twitter.com/yudekey)
@@ -15,7 +13,6 @@
 * [@yudetex](https://twitter.com/yudetex)
 
 ## ゲーム
-
 * Steam: [yude (id/yudejp)](https://steamcommunity.com/id/yudejp)
 * Minecraft: [yude](https://ja.namemc.com/profile/yude.1) リンク先: NameMC
 * osu!: [yude](https://osu.ppy.sh/users/4617937)
@@ -29,7 +26,6 @@
 * ハンゲーム: [yude1119](https://mypage.hange.jp/profile/index?mid=yude1119)
 
 ## 配信
-
 * YouTube: [https://www.youtube.com/c/yudete](yude (c/yudete))
 * Twitch: [yudete](https://twitch.tv/yudete)
 * Mixer: [yude](https://mixer.com/yude)
@@ -37,14 +33,12 @@
 * Dailymotion: [yude_point](https://www.dailymotion.com/yude_point)
 * Vimeo: [yude](https://vimeo.com/yude)
 * ふわっち: [yude](https://whowatch.tv/profile/w:yude)
-* Smashcast: yudehttps://www.smashcast.tv/yude)
 * Spotify: [yude1119](https://open.spotify.com/user/yude1119?si=mkpe_gHjSjatWcstDWkKbQ)
 * Omlet Arcade: [yudete](https://omlet.gg/profile/yudete)
 * Caffeine: [yudete](https://www.caffeine.tv/yudete/)
 * DLive: [yudete](https://dlive.tv/yudete)
 
 ## 開発
-
 * GitHub: [yudejp](https://github.com/yudejp)
 * GitLab: [yude](https://gitlab.com/yude)
 * Qiita: [yude](https://qiita.com/yude)
@@ -63,9 +57,8 @@
 * Launchpad: [yude](https://launchpad.net/~yude)
 
 ## 創作
-
 * note: [yude1119](https://note.com/yude1119)
-* pixiv: [yude](https://www.pixiv.net/users/17036889)
+* pixiv: [yude (ID: yudejp)](https://www.pixiv.net/users/17036889)
 * Sketchfab: [yude](https://sketchfab.com/yude)
 * RESUME: [yude](https://www.resume.id/yude)
 * 小説家になろう: [yude](https://mypage.syosetu.com/1084596/)
@@ -74,7 +67,6 @@
 * Iwara: [yude](https://www.iwara.tv/users/yude)
 
 ## 記録
-
 * Reddit: [yude1119](https://reddit.com/user/yude1119)
 * ブクログ: [yudetex](https://booklog.jp/users/yudetex/)
 * Annict: [@yude](https://annict.com/@yude)
@@ -98,19 +90,20 @@
 * Skype: yudecchi
 * LINE: [無料通話・無料メールアプリ「LINE」の招待が届いています](https://line.me/ti/p/U9r3ZUhimO)
 * Fleep: yudete@fleep.io
+
 ## その他の SNS
-* Disqus: [yudete](https://disqus.com/by/yudete/)
-* plug.dj: [yudecchi](https://plug.dj/@/yudecchi)
-* Myspace: [yudetex](https://myspace.com/yudetex)
+* Disqus: [yudejp](https://disqus.com/by/yudejp)
+* Myspace: [yudejp](https://myspace.com/yudejp)
 * ASKfm: [yude_point](https://ask.fm/yude_point)
 * Irori: [@yude](https://irori.app/@yude)
 * Quora: [yude](https://jp.quora.com/profile/yude)
 * Weibo (微博): [yude1119](https://weibo.com/7196958135/profile)
-## Fediverse
+## Fediverse / ActivityPub
 ### Misskey
 * [misskey.io/@yude](https://misskey.io/@yude)
 ### Mastodon
 * [mstdn.jp/@yude](https://mstdn.jp/@yude)
 * [mstdn.maud.io/@yude](https://mstdn.maud.io/@yude)
+* [pawoo.net/@yude](https://pawoo.net/@yude)
 ### Gab
 * [gab.com/yude](https://gab.com/yude)
