@@ -1,4 +1,4 @@
-# [yudemoe](https://github.com/yudemoe) / wiki
+# wiki
 
 yude が蓄積した知識や、雑多なまとめなどを掲載します。
 
