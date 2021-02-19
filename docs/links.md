@@ -105,5 +105,3 @@
 * [mstdn.jp/@yude](https://mstdn.jp/@yude)
 * [mstdn.maud.io/@yude](https://mstdn.maud.io/@yude)
 * [pawoo.net/@yude](https://pawoo.net/@yude)
-### Gab
-* [gab.com/yude](https://gab.com/yude)
