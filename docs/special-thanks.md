@@ -1,11 +1,11 @@
 # Special Thanks
 
-### yude.moe
+### yude.jp
 * CSS / JS フレームワーク: [Bootstrap](https://getbootstrap.jp/)
 * フォント: [Morning Star](http://www.tattoowoo.com/)
 * フォント: [Noto Sans](https://fonts.google.com/specimen/Noto+Sans+JP)
 
-### blog.yude.moe
+### blog.yude.jp
 * フレームワーク: [Hexo](https://hexo.io/)
 * テーマ: [hexo-theme-next](https://github.com/next-theme/hexo-theme-next)
 * プラグイン: [hexo-tag-link-preview](https://www.npmjs.com/package/hexo-tag-link-preview)
@@ -16,7 +16,7 @@
 * プラグイン: [hexo-deployer-git](https://www.npmjs.com/package/hexo-deployer-git)
 * プラグイン: [hexo-tag-amazon](https://www.npmjs.com/package/hexo-tag-amazon)
 
-### wiki.yude.moe
+### wiki.yude.jp
 * 静的サイトジェネレータ: [MkDocs](https://www.mkdocs.org/)
 * テーマ: [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 * プラグイン: [Guts/mkdocs-rss-plugin](https://github.com/Guts/mkdocs-rss-plugin)
@@ -26,18 +26,19 @@
 * プラグイン: [lukasgeiter/mkdocs-awesome-pages-plugin](https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin)
 * プラグイン: [Rylon/mkdocs-nav-enhancements](https://github.com/rylon/mkdocs-nav-enhancements)
 
-### nc.yude.moe
+### nc.yude.jp
 * ソフトウェア: [Nextcloud](https://nextcloud.com/)
 
-### git.yude.moe
+### git.yude.jp
 * ソフトウェア: [Gitea](https://gitea.io/)
 
-### wp.yude.moe
+### wp.yude.jp
 * ソフトウェア: [WordPress](https://ja.wordpress.org/)
 * テーマ: [WP Bootstrap Starter](https://ja.wordpress.org/themes/wp-bootstrap-starter/)
 
-### don.yude.moe
+### don.yude.jp
 * ソフトウェア: [Mastodon](https://joinmastodon.org/)
+
 ### Minecraft サーバー関連
 * サーバー ソフトウェア: [PaperMC](https://papermc.io/)
 * プロキシ ソフトウェア: [Waterfall](https://github.com/PaperMC/Waterfall)

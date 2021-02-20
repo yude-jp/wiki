@@ -9,7 +9,7 @@
 * [@yudejp](https://twitter.com/yudejp)
 * [@yudete](https://twitter.com/yudete)
 * [@yudekey](https://twitter.com/yudekey)
-* [@yudemoe](https://twitter.com/yudemoe)
+* [@yude_jp](https://twitter.com/yude_jp)
 * [@yudetex](https://twitter.com/yudetex)
 
 ## ゲーム
