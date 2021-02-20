@@ -55,6 +55,7 @@
 * Minds: [yude](https://www.minds.com/yude/)
 * npm: [yude](https://www.npmjs.com/~yude)
 * Launchpad: [yude](https://launchpad.net/~yude)
+* Zenn: [yude](https://zenn.dev/yude)
 
 ## 創作
 * note: [yude1119](https://note.com/yude1119)
@@ -102,6 +103,7 @@
 ### Misskey
 * [misskey.io/@yude](https://misskey.io/@yude)
 ### Mastodon
-* [mstdn.jp/@yude](https://mstdn.jp/@yude)
-* [mstdn.maud.io/@yude](https://mstdn.maud.io/@yude)
-* [pawoo.net/@yude](https://pawoo.net/@yude)
+* [@yude@don.yude.jp](https://don.yude.jp/@yude)
+* [@yude@mstdn.jp](https://mstdn.jp/@yude)
+* [@yude@mstdn.maud.io](https://mstdn.maud.io/@yude)
+* [@yude@pawoo.net](https://pawoo.net/@yude)
