@@ -9,7 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-
+        with:
+           # Number of commits to fetch. 0 indicates all history.
+           # Default: 1
+           fetch-depth: 0
       - name: Setup Python
         uses: actions/setup-python@v2
         with:
