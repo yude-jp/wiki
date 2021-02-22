@@ -1,14 +1,22 @@
 # コンピューター
 
-## iiyama ILeDxi-M012
-メイン  
+## 自作
+Windows 用デスクトップ
 
-* CPU: Intel Core i5-6500 @ 3.20GHz (4C)
-* RAM: DDR4 8GB * 2 = 16GB
+* CPU: AMD Ryzen 5 3600
+* RAM: DDR4 8GB * 4 = 32GB
+* OS: Windows 10 Pro
 * GPU: NVIDIA GeForce GTX 1060 6GB
-* OS: Microsoft Windows 10 Home
 
-## モデル名なし (自作)
+## iiyama ILeDxi-M012
+Linux 用デスクトップ
+
+* CPU: Intel Core i5-6500
+* RAM: DDR4 8GB
+* OS: Ubuntu Desktop 20.04.2 LTS
+* GPU: NVIDIA GeForce GTX 650
+
+## 自作
 サーバー  
 
 * CPU: Intel Core i7-2600 @ 3.80GHz (8C)
