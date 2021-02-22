@@ -30,4 +30,4 @@ Linux 用デスクトップ
 * CPU: AMD Ryzen 7 3700U (4C/8T)
 * RAM: DDR4 16GB
 * GPU: AMD Radeon RX Vega 10
-* OS: Microsoft Windows 10 Home
+* OS: Windows 10 Home
