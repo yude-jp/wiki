@@ -26,8 +26,8 @@
 * ハンゲーム: [yude1119](https://mypage.hange.jp/profile/index?mid=yude1119)
 
 ## 配信
-* YouTube: [https://www.youtube.com/c/yudete](yude (c/yudete))
-* Twitch: [yudete](https://twitch.tv/yudete)
+* YouTube: [https://www.youtube.com/c/yudejp](yude (c/yudejp))
+* Twitch: [yudejp](https://twitch.tv/yudejp)
 * Mixer: [yude](https://mixer.com/yude)
 * 哔哩哔哩 (bilibili): [yudetex](https://space.bilibili.com/446089772)
 * Dailymotion: [yude_point](https://www.dailymotion.com/yude_point)
