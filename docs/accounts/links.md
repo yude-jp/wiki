@@ -1,4 +1,4 @@
-# リンク集
+# リンク
 ## 連絡先
 * Discord: `yude#3205`
 * メール: [i@yude.jp](mailto:i@yude.jp)

@@ -1,4 +1,4 @@
-# Go
+# Go (Golang)
 
 ## exe ファイルを圧縮して生成する。
 `go build -ldflags="-s"`  
