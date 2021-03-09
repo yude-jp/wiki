@@ -12,3 +12,5 @@
         `git config --global commit.gpgsign true`
     1. **【重要】GitHub 等に鍵を登録する。 **  
         `gpg --armor --export [鍵のID]` でサイトに登録するべき文字列が表示されるので、コピペする。  
+    1. __エラーが出た場合__
+        `git config --global gpg.program "gpg コマンドの実行ファイルへのパス"` を実行してみる。
