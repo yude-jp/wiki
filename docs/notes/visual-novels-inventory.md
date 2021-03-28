@@ -19,4 +19,4 @@
 * [sprite/fairys (sprite / S-WORKS): 蒼の彼方のフォーリズム Perfect Edition](https://sprite.tokyo/products/aokana-perfect-edition/)
 * [sprite/fairys (sprite / S-WORKS): 蒼の彼方のフォーリズム EXTRA1](https://aokana.net/extra1/)
 * [sprite/fairys (sprite / S-WORKS): 恋と選挙とチョコレート](https://koichoco.net/)
-* [FAVORITE: アストラエラの白き永遠](http://www.favo-soft.jp/soft/product/WhiteEternity/index.html)
+* [FAVORITE: アストラエアの白き永遠](http://www.favo-soft.jp/soft/product/WhiteEternity/index.html)
