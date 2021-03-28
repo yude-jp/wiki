@@ -5,7 +5,7 @@ Windows 用デスクトップ
 
 * CPU: AMD Ryzen 5 3600
 * RAM: DDR4 8GB * 3 = 24GB
-* OS: Windows 10 Pro
+* OS: Windows 10 Education
 * GPU: NVIDIA GeForce GTX 1060 6GB
 * ストレージ (システム): KIOXIA M.2 SSD 1TB
 * ストレージ (ゲーム): KIOXIA SATA SSD 1TB
@@ -39,5 +39,6 @@ Linux 用デスクトップ
 * 色: ナイトフォールブラック
 * CPU: AMD Ryzen 7 3700U (4C/8T)
 * RAM: DDR4 16GB
-* GPU: AMD Radeon RX Vega 10
 * OS: Windows 10 Home
+* GPU: AMD Radeon RX Vega 10
+* ストレージ: M.2 SSD 512GB

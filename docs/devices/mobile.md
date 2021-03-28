@@ -8,10 +8,6 @@
 * 容量: 16 GB
 * 色: Silver
 
-## Apple iPad mini (第5世代)
-* 容量: 64 GB
-* 色: Silver
-
 ## LG Qua tab PX
 * 容量: 32 GB
 * 色: White
