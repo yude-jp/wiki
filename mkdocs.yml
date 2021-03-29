@@ -13,5 +13,4 @@ extra_css:
 plugins:
   - search
   - awesome-pages
-  - git-revision-date-localized
   - mkdocs-nav-enhancements
