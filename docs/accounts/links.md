@@ -39,7 +39,7 @@
 * DLive: [yudete](https://dlive.tv/yudete)
 
 ## 開発
-* GitHub: [yudejp](https://github.com/yudejp)
+* GitHub: [yude](https://github.com/yude)
 * GitLab: [yude](https://gitlab.com/yude)
 * Qiita: [yude](https://qiita.com/yude)
 * Indie Hackers: [yude](https://www.indiehackers.com/yude)
