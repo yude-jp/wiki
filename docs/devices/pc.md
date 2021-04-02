@@ -4,7 +4,7 @@
 Windows 用デスクトップ
 
 * CPU: AMD Ryzen 5 3600
-* RAM: DDR4 8GB * 3 = 24GB
+* RAM: DDR4 8GB * 4 = 32GB
 * OS: Windows 10 Education
 * GPU: NVIDIA GeForce GTX 1060 6GB
 * ストレージ (システム): KIOXIA M.2 SSD 1TB
@@ -15,9 +15,8 @@ Windows 用デスクトップ
 Linux 用デスクトップ
 
 * CPU: Intel Core i5-6500
-* RAM: DDR4 8GB * 2 = 16GB
-* OS: Ubuntu Desktop 20.04.2 LTS
-* GPU: NVIDIA GeForce GTX 650
+* RAM: DDR4 8GB
+* OS: Arch Linux
 * ストレージ (システム): Crucial SATA SSD 256GB
 
 ## 自作
