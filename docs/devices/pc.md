@@ -23,7 +23,7 @@ Linux 用デスクトップ
 サーバー  
 
 * CPU: Intel Core i7-2600 @ 3.80GHz (8C)
-* RAM: DDR3 8GB * 2 = 16GB
+* RAM: DDR3 4GB * 2 + 8GB * 2 = 24GB
 * OS: Ubuntu 20.04.1 LTS x86_64
 * ストレージ (システム): Crucial SATA SSD 256GB
 * ストレージ (録画, 一時保存): Samsung SATA SSD 850 256GB
