@@ -24,7 +24,7 @@ Linux 用デスクトップ
 
 * CPU: Intel Core i7-2600 @ 3.80GHz (8C)
 * RAM: DDR3 4GB * 2 + 8GB * 2 = 24GB
-* OS: Ubuntu 20.04.1 LTS x86_64
+* OS: Arch Linux
 * ストレージ (システム): Crucial SATA SSD 256GB
 * ストレージ (録画, 一時保存): Samsung SATA SSD 850 256GB
 * ストレージ (データ): Western Digital Blue HDD 4TB
@@ -38,6 +38,6 @@ Linux 用デスクトップ
 * 色: ナイトフォールブラック
 * CPU: AMD Ryzen 7 3700U (4C/8T)
 * RAM: DDR4 16GB
-* OS: Windows 10 Home
+* OS: Windows 10 Home / Arch Linux (デュアルブート w/ rEFInd)
 * GPU: AMD Radeon RX Vega 10
 * ストレージ: M.2 SSD 512GB
