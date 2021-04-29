@@ -1,4 +1,6 @@
-# Keybase のアンインストールに失敗する
+# Keybase
+
+## Keybase のアンインストールに失敗する
 ## 参考
 * [Fix problems that block programs from being installed or removed](https://support.microsoft.com/en-us/help/17588/windows-fix-problems-that-block-programs-being-installed-or-removed)
 

@@ -3,9 +3,9 @@ site_url: https://wiki.yude.jp
 site_author: 'yude'
 theme:
     name: material
-    language: 'ja'
-    feature:
-      tabs: true
+    language: ja
+    features:
+      - navigation.top
 
 extra_css:
   - css/fonts.css

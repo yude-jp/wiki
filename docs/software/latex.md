@@ -1,5 +1,6 @@
-# 複数の PDF を1つのファイルに結合する
+# LaTeX
 
+## 複数の PDF ファイルを結合したい
 以下の内容の対象 PDF の名前を適宜変更し (英数字じゃないとダメかも)、LaTeX のファイル形式 `.tex` で保存してから `pdflatex (filename).tex` を実行する。
 ```
 \documentclass[flegn]{article}

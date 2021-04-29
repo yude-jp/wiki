@@ -1,4 +1,4 @@
-# 無効化しても良いタスク
+# 無効化できるタスク
 * `タスク スケジューラ`で設定します。  
 ![Task Scheduler](../../assets/images/task_scheduler_1.png)
 * コマンド経由で無効化することもできます。  
